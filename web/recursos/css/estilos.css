@@ -1,0 +1,31 @@
+.tabla_t{
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+.tabla_c {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.titulo_d{
+    margin-top: 15px;
+    text-align: center;
+    font-weight: 200;
+}
+
+.titulo_c{
+    margin-top: 36px;
+    text-align: left;
+    font-weight: 270;
+    margin-left: 40px;
+}
+.ta{
+    margin-right: 7px;
+  
+}
+.tama_b {
+    margin-top: 7px;
+    font-size: 1.2em;
+}
